@@ -1,0 +1,23 @@
+cloud:
+  aws:
+    credentials:
+      access-key: <access-key>
+      secret-key: <secret-key>
+    region:
+      static: us-east-2
+    stack:
+      auto: false
+  rds:
+    credentials:
+      url: <rds url>>
+      user_name: admin
+      password: <password>
+
+application:
+  bucket:
+    name: from-java-sunku
+
+server:
+  port:
+
+
