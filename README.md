@@ -1,7 +1,7 @@
 # AWS-proj-1-backend
 API endpoints
 
-drop.chinmayisunku.ml 
+URL: https://drop.chinmayisunku.ml/ 
 
 Instruction to run:
   - Software required: SpringBoot and React
